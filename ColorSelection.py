@@ -30,3 +30,11 @@ colorSelect[thresholds] = [0, 0, 0]
 
 plt.imshow(colorSelect)
 plt.show()
+
+
+# With a region
+regionSelect = np.copy(image)
+
+leftBotton = [0, 539]
+rightBotton = [900, 300]
+apextBotton = [400, 0]
