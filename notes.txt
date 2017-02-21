@@ -1,0 +1,9 @@
+Issue with CV_8U
+error: (-215) src.depth() == CV_8U in function Canny
+http://stackoverflow.com/questions/19103933/depth-error-in-2d-image-with-opencv-python
+
+______________________________
+
+
+
+
